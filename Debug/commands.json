@@ -1,0 +1,17 @@
+{
+  "Commands": [
+    {
+      "Event": "Speed rise",
+	  "value": "15"
+    },
+	{
+      "Event": "Speed reduction",
+	  "value": "10",
+	  "timeToProceed": "1000"
+    },
+	{
+	   "Event": "fuel drop",
+	   "value": ""
+	}
+  ]
+}
